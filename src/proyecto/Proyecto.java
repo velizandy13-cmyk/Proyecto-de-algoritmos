@@ -5,11 +5,27 @@
 package proyecto;
 
 import java.util.Scanner;
+import static proyecto.programa.proyectoVenta;
 
 /**
  *
  * @author veliz
  */
 public class Proyecto {
-
    
+     public static void main(String[] args) {
+         
+         proyectoVenta();
+     }
+     
+}
+        
+    
+         
+         
+         
+         
+         
+         
+
+  
